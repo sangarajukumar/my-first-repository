@@ -54,3 +54,7 @@ const hideMobileMenu = () => {
 
 menuLinks.addEventListener('click', hideMobileMenu);
 navLogo.addEventListener('click', hideMobileMenu);
+
+var a = "HEllo world"
+
+console.log(a)
