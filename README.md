@@ -2,3 +2,5 @@ Simple website created using HTML, CSS &amp; Javascript with smooth scroll effec
 
 Watch the full tutorial on how I built this website on my Youtube @Brian Design https://youtu.be/3-2Pj5hxwrw
 
+This is the website for www.coinbeast11.com
+
